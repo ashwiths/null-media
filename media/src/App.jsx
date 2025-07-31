@@ -9,7 +9,7 @@ function App() {
   };
 
   return (
-    <div className={isDarkMode ? "App dark" : "App"}>
+    <div className={isDarkMode ? "App dark" : "Ap"}>
       {/* Header Section */}
       <header className="header">
         <div className="header-content">
